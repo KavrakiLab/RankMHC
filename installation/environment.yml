@@ -1,0 +1,17 @@
+name: MHCrankI
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.8
+  - numpy 
+  - pymol-open-source
+  - biopandas
+  - biopython
+  - tabulate
+  - pdb-tools
+  - mpire
+  - pandas
+  - tqdm
+  - freesasa
+  - py-xgboost-cpu
